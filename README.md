@@ -1,4 +1,7 @@
-
+<!doctype html>
+<html>
+<head>
+<title>WEB1 - Moodong</title>
 <meta charset="utf-8">
 </head>
 <body>
